@@ -11,31 +11,31 @@ In this assignment, I have set up a private testnet to explore potentials for bl
 
 ![Genesis Creation](/Screenshots/Genesis_Creation.PNG)
 
-![Nodes, Accounts Creation](Nodes_Accounts_Creation.PNG)
+![Nodes, Accounts Creation](/Screenshots/Nodes_Accounts_Creation.PNG)
 
-![Starting Chain](Starting_Chain.PNG)
+![Starting Chain](/Screenshots/Starting_Chain.PNG)
 
-![Mining Node 2](Mining_Node_2.PNG)
+![Mining Node 2](/Screenshots/Mining_Node_2.PNG)
 
-![Puppeth Configuration](Puppeth_Configuration.PNG)
+![Puppeth Configuration](/Screenshots/Puppeth_Configuration.PNG)
 
-![Node 1 Folder](Node_1_Folder.PNG)
+![Node 1 Folder](/Screenshots/Node_1_Folder.PNG)
 
-![Node 2 Folder](Node_2_Folder.PNG)
+![Node 2 Folder](/Screenshots/Node_2_Folder.PNG)
 
 
 I used the Metamask GUI wallet instead of MyCrypto for this homework because it was more convenient to use.  I have found that connecting to the networks was not very stable using MyCrypto as compared to using Metamask. This is how the initial balance looks like.
 
-![Metamask Initial Account Balance](Metamask_Initial_Account_Balance.PNG)
+![Metamask Initial Account Balance](/Screenshots/Metamask_Initial_Account_Balance.PNG)
 
 And this is how setting up the custom RPC node looks like:
 
-![New Custom Node](New_Custom_Node.PNG)
+![New Custom Node](/Screenshots/New_Custom_Node.PNG)
 
 As soon as that was set up, sending a transaction was a breeze.  Here I sent 1898 ETH to the same address.
 
-![Sending Txn](Sending_Txn.PNG)
+![Sending Txn](/Screenshots/Sending_Txn.PNG)
 
-![Sending Confirm](Sending_Confirm.PNG)
+![Sending Confirm](/Screenshots/Sending_Confirm.PNG)
 
-![Metamask Activity](Metamask_Activity.PNG)
+![Metamask Activity](/Screenshots/Metamask_Activity.PNG)
