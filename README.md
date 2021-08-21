@@ -9,7 +9,7 @@ In this assignment, I have set up a private testnet to explore potentials for bl
 - The Clique Proof of Authority algorithm.
 - Metamask, instead of MyCrypto wallet, for ease of use.
 
-![Genesis Creation](../Screenshots/Genesis_Creation.PNG)
+![Genesis Creation](/Screenshots/Genesis_Creation.PNG)
 
 ![Nodes, Accounts Creation](Nodes_Accounts_Creation.PNG)
 
