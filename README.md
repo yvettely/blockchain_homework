@@ -28,7 +28,7 @@ I used the Metamask GUI wallet instead of MyCrypto for this homework because it 
 
 ![Metamask Initial Account Balance](/Screenshots/Metamask_Initial_Account_Balance.PNG)
 
-And this is how setting up the custom RPC node looks like:
+Below is how setting up the custom RPC node looks like.  I have used the network name "cliquernet" and network/chain ID 315, which I have previously set up.
 
 ![New Custom Node](/Screenshots/New_Custom_Node.PNG)
 
